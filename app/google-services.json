@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045378099887",
+    "project_id": "sizanibakwethu",
+    "storage_bucket": "sizanibakwethu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045378099887:android:eb103e08160cbfcc29425a",
+        "android_client_info": {
+          "package_name": "com.bakwethu.sizani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM57maJvjEVCtr8aELfTE8gLB_cGFkCos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
